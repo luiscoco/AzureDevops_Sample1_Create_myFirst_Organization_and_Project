@@ -36,12 +36,10 @@ We input the new **Organization name** and we click on the **Continue** button
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/273413eb-fc3d-418c-886d-73acdb008c6e)
 
-## 4. How to create my first Project
-
 We can click on the **Organization settings** button to modify the Organization main features
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/08793d45-5203-4de9-9385-854e470c4d22)
 
-
+## 4. How to create my first Project
 
 
