@@ -100,4 +100,4 @@ We verify the **project details**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/850d135a-7e8a-42cb-ad0a-918f7a1c1404)
 
-
+We can summarize the main **project details** menu options: **General**, **Boards**, **Pipelines**, **Repos**, **Artifacts** and **Test**
