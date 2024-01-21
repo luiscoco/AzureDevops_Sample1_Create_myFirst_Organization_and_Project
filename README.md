@@ -26,6 +26,15 @@ If we click on the **Preferences** tab we can input: Preferred Language, Date Pa
 
 ## 3. How to create my first Organization 
 
+We click on the **Create new organization** button 
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/2976b950-3d0b-4316-89f9-49d20592d3dc)
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/86256f5f-a27f-43e9-a87a-0c7542418cad)
+
+We click on the **Continue** button
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/273413eb-fc3d-418c-886d-73acdb008c6e)
 
 
 
