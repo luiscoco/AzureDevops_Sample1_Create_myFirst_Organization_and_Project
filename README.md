@@ -1,2 +1,16 @@
-# AzureDevops_Sample1_Create_myFirst_Organization_and_Project
-Azure DevOps: How to create my first Organization and Project
+# Azure DevOps: How to create my first Organization and Project
+
+## 1. Login to Azure DevOps
+
+
+## 2. Customize my profile
+
+
+## 3. Create my first Organization 
+
+
+## 4. Create my first Project
+
+
+
++
