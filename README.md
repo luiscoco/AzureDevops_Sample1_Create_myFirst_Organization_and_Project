@@ -48,13 +48,31 @@ We can also change the **Organization owner** or **Delete the organization**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/466b9bd6-6c4b-4c17-b29d-3932e6947cae)
 
-We summarize the **Organization Settings** options in the left hand side menu:
+We summarize the **Organization Settings** options in the left hand side menu: **General**, **Security**, **Boards**, **Pipelines**, **Repos** and **Artifacts** 
 
 Inside the **General** feature we have these options: **Overview**, **Projects**, **Users**, **Billing**, **Global notifications**, **Usage**, **Extensions** and **Microsoft Entra**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/f8effe76-6a35-4b24-a3cd-bec922c8d692)
 
+Inside the **Security** feature we have these options: **Policies** and **Permissions**
 
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/e610ab4d-e15e-47e5-9a96-2a385bdd9449)
+
+Inside the **Boards** option we have the **Process**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/e3626f05-cc33-4e37-ba1f-47b20350b001)
+
+In the **Pipelines** menu we have the submenus: **Agent pools**, **Settings**, **Deployment pools**, **Parallel jobs** and **OAth Configurations**.
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/32185612-f7cb-47ab-af72-fe672c56fe25)
+
+In the **Repos** option we have the **Repositories**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/7ad952d4-eaa1-451b-af6d-3b5a448d6287)
+
+And finally inside the **Artifacts** we have the **Storage**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/afe5f8b5-4eec-46a8-b359-eb2449c7fcfa)
 
 ## 4. How to create my first Project
 
