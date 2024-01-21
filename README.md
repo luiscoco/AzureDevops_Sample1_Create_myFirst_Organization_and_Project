@@ -20,7 +20,7 @@ Now we can input our Azure DevOps account main features, we are already in the *
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/96e40ac1-dd90-42b4-85c8-2a3cfb68a4ec)
 
-If we click on the **Preferences** tab we can input: Preferred Language, Date Pattern, Time Pattern, Time Zone, Work item form
+If we click on the **Preferences** tab we can input: **Preferred Language**, **Date Pattern**, **Time Pattern**, **Time Zone** and Work item form
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/bd3a7555-fa79-4d03-a009-e6f6265b96ec)
 
@@ -51,4 +51,8 @@ The first way is to click on the Organization settings button and after we selec
 https://dev.azure.com/luiscocoenriquez/_settings/projects
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/481e70c1-68bb-4867-941f-1324376ef9ae)
+
+We input the new project main data: **Project name**, **Description**, **Visibility**, **Version control** and **Work item process**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/3bc9ee5f-b2e6-4667-9c35-98ebe9c57ee1)
 
