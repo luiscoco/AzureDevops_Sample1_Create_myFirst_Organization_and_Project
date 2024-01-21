@@ -82,3 +82,10 @@ We can see the new project in the list
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/001c5e8a-c478-4070-a748-df292fdaefbe)
 
+We verify the **project details**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/0f2ddd37-1265-4609-bed6-8a82819d2aef)
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/850d135a-7e8a-42cb-ad0a-918f7a1c1404)
+
+
