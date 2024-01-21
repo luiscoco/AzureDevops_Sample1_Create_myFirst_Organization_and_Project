@@ -40,6 +40,11 @@ We can click on the **Organization settings** button to modify the Organization 
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/08793d45-5203-4de9-9385-854e470c4d22)
 
+We can also change the **Organization owner** or **Delete the organization**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/466b9bd6-6c4b-4c17-b29d-3932e6947cae)
+
+
 ## 4. How to create my first Project
 
 
