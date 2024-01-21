@@ -48,11 +48,15 @@ We can also change the **Organization owner** or **Delete the organization**
 
 The first way is to click on the Organization settings button and after we select, in the left hand side menu, the **Projects** option and then we click on the **New project** button
 
-https://dev.azure.com/luiscocoenriquez/_settings/projects
+**https://dev.azure.com/luiscocoenriquez/_settings/projects**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/481e70c1-68bb-4867-941f-1324376ef9ae)
 
 We input the new project main data: **Project name**, **Description**, **Visibility**, **Version control** and **Work item process**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/3bc9ee5f-b2e6-4667-9c35-98ebe9c57ee1)
+
+We can see the new project in the list
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/001c5e8a-c478-4070-a748-df292fdaefbe)
 
