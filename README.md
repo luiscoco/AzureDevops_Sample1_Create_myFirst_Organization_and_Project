@@ -48,6 +48,14 @@ We can also change the **Organization owner** or **Delete the organization**
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/466b9bd6-6c4b-4c17-b29d-3932e6947cae)
 
+We summarize the **Organization Settings** options in the left hand side menu:
+
+Inside the **General** feature we have these options: **Overview**, **Projects**, **Users**, **Billing**, **Global notifications**, **Usage**, **Extensions** and **Microsoft Entra**
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/f8effe76-6a35-4b24-a3cd-bec922c8d692)
+
+
+
 ## 4. How to create my first Project
 
 The first way is to click on the Organization settings button and after we select, in the left hand side menu, the **Projects** option and then we click on the **New project** button
