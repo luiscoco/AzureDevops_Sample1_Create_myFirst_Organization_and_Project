@@ -56,6 +56,10 @@ We input the new project main data: **Project name**, **Description**, **Visibil
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/3bc9ee5f-b2e6-4667-9c35-98ebe9c57ee1)
 
+We can choose these options in the **Version control**: **Git** or **Team Foundation Version Control**
+
+We can choose these options in the **Work item process**: **Agile**, **Basic**, **CMMI** or **Scrum**
+
 We can see the new project in the list
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/001c5e8a-c478-4070-a748-df292fdaefbe)
