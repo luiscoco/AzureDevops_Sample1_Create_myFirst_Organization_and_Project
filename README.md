@@ -40,7 +40,7 @@ We verify we created a new Organization
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/0754e11b-dcae-4dca-96c4-ccd0aa477866)
 
-We can click on the **Organization settings** button to modify the Organization main features
+We can click on the **Organization settings** button to modify the Organization main features in the **Overview** option
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/08793d45-5203-4de9-9385-854e470c4d22)
 
