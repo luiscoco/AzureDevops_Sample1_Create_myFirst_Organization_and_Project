@@ -60,6 +60,24 @@ We can choose these options in the **Version control**: **Git** or **Team Founda
 
 We can choose these options in the **Work item process**: **Agile**, **Basic**, **CMMI** or **Scrum**
 
+These are the **Work item process** items:
+
+These are the **Agile** items:
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/2141544c-4b4b-4b9c-97ce-e950e08e529f)
+
+These are the **Basic** items:
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/52ffe04c-ebc0-4946-a174-38c0957d08c1)
+
+These are the **CMMI** items: 
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/f1ef4231-3ceb-4c0a-b170-21e21568d692)
+
+These are the **Scrum** items:
+
+![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/85398892-08f5-4f3c-8c9d-679a78d326d0)
+
 We can see the new project in the list
 
 ![image](https://github.com/luiscoco/AzureDevops_Sample1_Create_myFirst_Organization_and_Project/assets/32194879/001c5e8a-c478-4070-a748-df292fdaefbe)
